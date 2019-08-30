@@ -1,0 +1,13 @@
+{
+	"id": "org.stremio.memes",
+	"name": "24/7 Memes",
+	"description": "Endless meme compilations",
+	"logo": "https://pics.me.me/%E7%99%BE%E7%A7%91%E4%BA%8B%E5%85%B8-is-this-a-pigeon-freetoedit-memes-meme-butterfly-anime-49144991.png",
+    "resources": ["catalog", "stream"],
+    "types": ["channel"],
+	"catalogs": [{
+		"type": "channel",
+		"id": "memes"
+	}],
+	"version": "0.0.1"
+}
